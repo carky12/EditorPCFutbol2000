@@ -1,0 +1,16 @@
+0|equipo1|55|70|https://www.transfermarkt.es/al-hilal-riad/startseite/verein/1114/saison_id/2021
+0|equipo1|55|70|https://www.transfermarkt.es/al-nasr-riad/startseite/verein/18544/saison_id/2021
+0|equipo1|55|70|https://www.transfermarkt.es/al-ittihad-dschidda/startseite/verein/8023/saison_id/2021
+0|equipo1|55|70|https://www.transfermarkt.es/al-ahli-dschidda/startseite/verein/18487/saison_id/2021
+0|equipo1|55|70|https://www.transfermarkt.es/al-shabab-riad/startseite/verein/9840/saison_id/2021
+0|equipo1|55|70|https://www.transfermarkt.es/al-ettifaq/startseite/verein/7732/saison_id/2021
+0|equipo1|55|70|https://www.transfermarkt.es/al-taawoun-fc/startseite/verein/28844/saison_id/2021
+0|equipo1|55|70|https://www.transfermarkt.es/al-faisaly-harmah/startseite/verein/28848/saison_id/2021
+0|equipo1|55|70|https://www.transfermarkt.es/al-hazm/startseite/verein/9131/saison_id/2021
+0|equipo1|55|70|https://www.transfermarkt.es/al-batin/startseite/verein/28597/saison_id/2021
+0|equipo1|55|70|https://www.transfermarkt.es/al-fateh/startseite/verein/27221/saison_id/2021
+0|equipo1|55|70|https://www.transfermarkt.es/al-raed/startseite/verein/22381/saison_id/2021
+0|equipo1|55|70|https://www.transfermarkt.es/abha-club/startseite/verein/40039/saison_id/2021
+0|equipo1|55|70|https://www.transfermarkt.es/al-fayha-fc/startseite/verein/50531/saison_id/2021
+0|equipo1|55|70|https://www.transfermarkt.es/damac-fc/startseite/verein/50532/saison_id/2021
+0|equipo1|55|70|https://www.transfermarkt.es/al-taee/startseite/verein/40079/saison_id/2021

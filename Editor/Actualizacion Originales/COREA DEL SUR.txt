@@ -1,0 +1,12 @@
+4401|Hyundai Horang|55|65|https://www.transfermarkt.es/jeonbuk-hyundai-motors/startseite/verein/6502
+0|equipo1|50|60|https://www.transfermarkt.es/ulsan-hyundai/startseite/verein/3535/saison_id/2020
+0|equipo1|50|60|https://www.transfermarkt.es/suwon-samsung-bluewings/startseite/verein/3301/saison_id/2020
+0|equipo1|50|60|https://www.transfermarkt.es/fc-seoul/startseite/verein/6500/saison_id/2020
+0|equipo1|50|60|https://www.transfermarkt.es/gangwon-fc/startseite/verein/21459/saison_id/2020
+0|equipo1|50|60|https://www.transfermarkt.es/daegu-fc/startseite/verein/6504/saison_id/2020
+0|equipo1|50|60|https://www.transfermarkt.es/seongnam-fc/startseite/verein/3610/saison_id/2020
+0|equipo1|50|60|https://www.transfermarkt.es/suwon-fc/startseite/verein/31622/saison_id/2020
+0|equipo1|50|60|https://www.transfermarkt.es/pohang-steelers/startseite/verein/311/saison_id/2020
+0|equipo1|50|60|https://www.transfermarkt.es/jeju-united/startseite/verein/19684/saison_id/2020
+0|equipo1|50|60|https://www.transfermarkt.es/incheon-united/startseite/verein/2996/saison_id/2020
+0|equipo1|50|60|https://www.transfermarkt.es/gwangju-fc/startseite/verein/30925/saison_id/2020

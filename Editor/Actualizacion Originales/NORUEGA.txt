@@ -1,0 +1,16 @@
+1351|Rosenborg|66|76|https://www.transfermarkt.es/rosenborg-bk/startseite/verein/195/saison_id/2020
+1352|Molde FK|61|71|https://www.transfermarkt.es/molde-fk/startseite/verein/687/saison_id/2020
+1353|Lillestrom|63|73|https://www.transfermarkt.es/lillestrom-sk/startseite/verein/353/saison_id/2020
+1354|Viking|62|72|https://www.transfermarkt.es/viking-stavanger/startseite/verein/239/saison_id/2020
+1355|Bodo Glimt|64|74|https://www.transfermarkt.es/fk-bodo-glimt/startseite/verein/501/saison_id/2020
+1356|Brann|64|74|https://www.transfermarkt.es/sk-brann/startseite/verein/1100/saison_id/2020
+1357|Tromso|63|73|https://www.transfermarkt.es/tromso-il/startseite/verein/1293/saison_id/2020
+1358|Stromsgodset|63|73|https://www.transfermarkt.es/stromsgodset-if/startseite/verein/2817/saison_id/2020
+1359|Valerenga|62|72|https://www.transfermarkt.es/valerenga-fotball/startseite/verein/76/saison_id/2020
+1360|Stabaek|53|63|https://www.transfermarkt.es/stabaek-fotball/startseite/verein/1274/saison_id/2020
+0|EQUIPO1|62|72|https://www.transfermarkt.es/odds-bk/startseite/verein/1058/saison_id/2020
+0|EQUIPO1|62|72|https://www.transfermarkt.es/sarpsborg-08-ff/startseite/verein/10217/saison_id/2020
+0|EQUIPO1|62|72|https://www.transfermarkt.es/fk-haugesund/startseite/verein/2761/saison_id/2020
+0|EQUIPO1|62|72|https://www.transfermarkt.es/kristiansund-bk/startseite/verein/21101/saison_id/2020
+0|EQUIPO1|62|72|https://www.transfermarkt.es/sandefjord-fotball/startseite/verein/6399/saison_id/2020
+0|EQUIPO1|62|72|https://www.transfermarkt.es/mjondalen-if/startseite/verein/11338/saison_id/2020

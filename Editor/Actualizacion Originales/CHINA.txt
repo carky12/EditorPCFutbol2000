@@ -1,0 +1,16 @@
+0|EQUIPO1|65|78|https://www.transfermarkt.es/shanghai-port/startseite/verein/27190/saison_id/2020
+0|EQUIPO1|65|78|https://www.transfermarkt.es/beijing-sinobo-guoan/startseite/verein/3176/saison_id/2020
+0|EQUIPO1|65|78|https://www.transfermarkt.es/shenzhen-fc/startseite/verein/1320/saison_id/2020
+0|EQUIPO1|65|78|https://www.transfermarkt.es/guangzhou-fc/startseite/verein/10948/saison_id/2020
+0|EQUIPO1|65|78|https://www.transfermarkt.es/shandong-taishan/startseite/verein/3182/saison_id/2020
+0|EQUIPO1|65|78|https://www.transfermarkt.es/shanghai-shenhua/startseite/verein/3183/saison_id/2020
+0|EQUIPO1|65|78|https://www.transfermarkt.es/dalian-professional/startseite/verein/33304/saison_id/2020
+0|EQUIPO1|65|78|https://www.transfermarkt.es/changchun-yatai/startseite/verein/4768/saison_id/2020
+0|EQUIPO1|65|78|https://www.transfermarkt.es/hebei-fc/startseite/verein/36630/saison_id/2020
+0|EQUIPO1|65|78|https://www.transfermarkt.es/wuhan-fc/startseite/verein/6450/saison_id/2020
+0|EQUIPO1|65|78|https://www.transfermarkt.es/guangzhou-city/startseite/verein/18916/saison_id/2020
+0|EQUIPO1|65|78|https://www.transfermarkt.es/henan-songshan-longmen/startseite/verein/9982/saison_id/2020
+0|EQUIPO1|65|78|https://www.transfermarkt.es/chongqing-liangjiang-athletic/startseite/verein/1326/saison_id/2020
+0|EQUIPO1|65|78|https://www.transfermarkt.es/cangzhou-mighty-lions/startseite/verein/35272/saison_id/2020
+0|EQUIPO1|65|78|https://www.transfermarkt.es/tianjin-teda/startseite/verein/3187/saison_id/2020
+0|EQUIPO1|65|78|https://www.transfermarkt.es/qingdao-fc/startseite/verein/38987/saison_id/2020

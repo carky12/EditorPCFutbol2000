@@ -1,0 +1,16 @@
+4901|Raja Casablanca|54|64|https://www.transfermarkt.es/raja-casablanca/startseite/verein/2068/saison_id/2021
+0|EQUIPO1|54|64|https://www.transfermarkt.es/wydad-casablanca/startseite/verein/6603/saison_id/2021
+0|EQUIPO1|54|64|https://www.transfermarkt.es/ittihad-tanger/startseite/verein/12721/saison_id/2021
+0|EQUIPO1|54|64|https://www.transfermarkt.es/far-rabat/startseite/verein/9099/saison_id/2021
+0|EQUIPO1|54|64|https://www.transfermarkt.es/fus-rabat/startseite/verein/6371/saison_id/2021
+0|EQUIPO1|54|64|https://www.transfermarkt.es/renaissance-de-berkane/startseite/verein/37176/saison_id/2021
+0|EQUIPO1|54|64|https://www.transfermarkt.es/mas-fes/startseite/verein/3282/saison_id/2021
+0|EQUIPO1|54|64|https://www.transfermarkt.es/sc-chabab-mohammedia/startseite/verein/2073/saison_id/2021
+0|EQUIPO1|54|64|https://www.transfermarkt.es/rapide-oued-zem/startseite/verein/59679/saison_id/2021
+0|EQUIPO1|54|64|https://www.transfermarkt.es/difaa-el-jadida/startseite/verein/14462/saison_id/2021
+0|EQUIPO1|54|64|https://www.transfermarkt.es/mouloudia-club-doujda/startseite/verein/22941/saison_id/2021
+0|EQUIPO1|54|64|https://www.transfermarkt.es/olympique-khouribga/startseite/verein/18702/saison_id/2021
+0|EQUIPO1|54|64|https://www.transfermarkt.es/olympique-safi/startseite/verein/22944/saison_id/2021
+0|EQUIPO1|54|64|https://www.transfermarkt.es/youssoufia-berrechid/startseite/verein/37415/saison_id/2021
+0|EQUIPO1|54|64|https://www.transfermarkt.es/hassania-union-sport-dagadir/startseite/verein/22935/saison_id/2021
+0|EQUIPO1|54|64|https://www.transfermarkt.es/chabab-riadi-salmi/startseite/verein/79390/saison_id/2021

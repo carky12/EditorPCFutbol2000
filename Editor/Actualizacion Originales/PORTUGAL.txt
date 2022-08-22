@@ -1,0 +1,28 @@
+601|Oporto|69|79|https://www.transfermarkt.es/fc-porto/startseite/verein/720/saison_id/2021
+602|Sporting Port.|70|80|https://www.transfermarkt.es/sporting-lissabon/startseite/verein/336/saison_id/2021
+603|Benfica|68|78|https://www.transfermarkt.es/benfica-lissabon/startseite/verein/294/saison_id/2021
+604|V. Guimaraes|63|73|https://www.transfermarkt.es/vitoria-guimaraes-sc/startseite/verein/2420/saison_id/2021
+605|Farense|61|71|https://www.transfermarkt.es/fc-arouca/startseite/verein/8024/saison_id/2021
+606|Boavista|65|75|https://www.transfermarkt.es/boavista-porto-fc/startseite/verein/2503/saison_id/2021
+608|Uniao Leiria|63|73|https://www.transfermarkt.es/belenenses-sad/startseite/verein/2457/saison_id/2021
+609|Braga|63|73|https://www.transfermarkt.es/sc-braga/startseite/verein/1075/saison_id/2021
+610|Marítimo|63|73|https://www.transfermarkt.es/cs-maritimo/startseite/verein/1301/saison_id/2021
+612|Salgueiros|60|70|https://www.transfermarkt.es/gd-estoril-praia/startseite/verein/1465/saison_id/2021
+613|Estrela Amad.|63|73|https://www.transfermarkt.es/fc-famalicao/startseite/verein/3329/saison_id/2021
+615|Chaves|63|73|https://www.transfermarkt.es/gil-vicente-fc/startseite/verein/2424/saison_id/2021
+616|Río Ave|62|72|https://www.transfermarkt.es/moreirense-fc/startseite/verein/979/saison_id/2021
+617|Vitoria Setub.|62|72|https://www.transfermarkt.es/fc-pacos-de-ferreira/startseite/verein/2995/saison_id/2021
+620|Coimbra|64|74|https://www.transfermarkt.es/portimonense-sc/startseite/verein/7378/saison_id/2021
+621|Campomaiorense|62|72|https://www.transfermarkt.es/cd-tondela/startseite/verein/7179/saison_id/2021
+622|Beira Mar|65|75|https://www.transfermarkt.es/cd-santa-clara/startseite/verein/2423/saison_id/2021
+623|Alverca|65|75|https://www.transfermarkt.es/fc-vizela/startseite/verein/6912/saison_id/2021
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+5101|Shooting Stars|57|67|https://www.transfermarkt.es/shooting-stars-sc/startseite/verein/5739/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/niger-tornadoes/startseite/verein/17025/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/akwa-united/startseite/verein/16953/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/katsina-united-fc/startseite/verein/62574/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/kano-pillars/startseite/verein/6799/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/enugu-rangers-ifc/startseite/verein/2930/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/wikki-tourists/startseite/verein/10779/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/sunshine-stars/startseite/verein/17064/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/remo-stars-fc/startseite/verein/60222/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/rivers-united-fc/startseite/verein/53321/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/plateau-united-fc/startseite/verein/5069/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/nasarawa-united/startseite/verein/15723/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/mfm-fc/startseite/verein/49195/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/lobi-stars-fc/startseite/verein/6907/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/kwara-united-fc/startseite/verein/17004/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/fc-heartland/startseite/verein/11321/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/gombe-united-fc/startseite/verein/16994/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/enyimba-aba/startseite/verein/645/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/dakkada-fc/startseite/verein/77560/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/abia-warriors-fc/startseite/verein/43417/saison_id/2021

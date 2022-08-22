@@ -1,0 +1,81 @@
+201|Milan|75|85|https://www.transfermarkt.es/ac-mailand/startseite/verein/5/saison_id/2021
+202|Juventus|75|85|https://www.transfermarkt.es/juventus-turin/startseite/verein/506/saison_id/2021
+203|Sampdoria|65|75|https://www.transfermarkt.es/reggina-1914/startseite/verein/1386/saison_id/2021
+204|Lazio|75|85|https://www.transfermarkt.es/lazio-rom/startseite/verein/398/saison_id/2021
+205|Parma|75|85|https://www.transfermarkt.es/genua-cfc/startseite/verein/252/saison_id/2021
+206|Nápoles|68|78|https://www.transfermarkt.es/ssc-neapel/startseite/verein/6195/saison_id/2021
+207|Roma|75|85|https://www.transfermarkt.es/as-rom/startseite/verein/12/saison_id/2021
+208|Torino|66|76|https://www.transfermarkt.es/pordenone-calcio/startseite/verein/21331/saison_id/2021
+210|Cremonese|49|59|
+211|Genoa|65|75|https://www.transfermarkt.es/spal/startseite/verein/2722/saison_id/2021
+212|Cagliari|66|76|https://www.transfermarkt.es/brescia-calcio/startseite/verein/19/saison_id/2021
+213|Inter|75|85|https://www.transfermarkt.es/inter-mailand/startseite/verein/46/saison_id/2021
+214|Reggiana|50|60|https://www.transfermarkt.es/ac-trento/startseite/verein/4095/saison_id/2021
+215|Fiorentina|73|83|https://www.transfermarkt.es/ac-florenz/startseite/verein/430/saison_id/2021
+216|Bari|68|78|https://www.transfermarkt.es/us-sassuolo/startseite/verein/6574/saison_id/2021
+217|Brescia|67|77|https://www.transfermarkt.es/sampdoria-genua/startseite/verein/1038/saison_id/2021
+219|Piacenza|67|77|https://www.transfermarkt.es/frosinone-calcio/startseite/verein/8970/saison_id/2021
+220|Udinese|71|81|https://www.transfermarkt.es/udinese-calcio/startseite/verein/410/saison_id/2021
+221|Vicenza|67|77|https://www.transfermarkt.es/fc-turin/startseite/verein/416/saison_id/2021
+222|Atalanta|66|76|https://www.transfermarkt.es/atalanta-bergamo/startseite/verein/800/saison_id/2021
+223|Salernitana|58|68|https://www.transfermarkt.es/ac-pisa-1909/startseite/verein/4172/saison_id/2021
+224|Ancona|52|62|https://www.transfermarkt.es/parma-calcio-1913/startseite/verein/130/saison_id/2021
+225|Perugia|68|78|https://www.transfermarkt.es/fc-empoli/startseite/verein/749/saison_id/2021
+226|Cesena|57|67|https://www.transfermarkt.es/delfino-pescara-1936/startseite/verein/2921/saison_id/2021
+227|Venecia|65|75|https://www.transfermarkt.es/ascoli-calcio/startseite/verein/408/saison_id/2021
+228|Verona|67|77|https://www.transfermarkt.es/cagliari-calcio/startseite/verein/1390/saison_id/2021
+229|Pescara|59|69|https://www.transfermarkt.es/us-cremonese/startseite/verein/2239/saison_id/2021
+230|Fidelis Andria|46|56|https://www.transfermarkt.es/virtus-francavilla-calcio/startseite/verein/49939/saison_id/2021
+231|Chievo Verona|59|69|https://www.transfermarkt.es/us-lecce/startseite/verein/1005/saison_id/2021
+232|Palermo|50|60|https://www.transfermarkt.es/us-anconitana/startseite/verein/1388/saison_id/2021
+233|Lucchese|48|58|https://www.transfermarkt.es/lucchese-1905/startseite/verein/1253/saison_id/2021
+234|Cosenza|55|65|https://www.transfermarkt.es/cosenza-calcio/startseite/verein/4031/saison_id/2021
+235|Avellino|45|55|https://www.transfermarkt.es/ss-juve-stabia/startseite/verein/5587/saison_id/2021
+236|Bolonia|71|81|https://www.transfermarkt.es/fc-bologna/startseite/verein/1025/saison_id/2021
+237|Pistoiese|57|67|https://www.transfermarkt.es/venezia-fc/startseite/verein/607/saison_id/2021
+238|Reggina|66|76|https://www.transfermarkt.es/spezia-calcio/startseite/verein/3522/saison_id/2021
+239|Varese|47|57|https://www.transfermarkt.es/us-avellino-1912/startseite/verein/2331/saison_id/2021
+242|Como|46|56|https://www.transfermarkt.es/ac-reggiana-1919/startseite/verein/5621/saison_id/2021
+243|Gualdo|47|57|
+245|Ascoli|50|60|https://www.transfermarkt.es/palermo-fc/startseite/verein/458/saison_id/2021
+246|Lecce|67|77|https://www.transfermarkt.es/hellas-verona/startseite/verein/276/saison_id/2021
+247|Monza|55|65|https://www.transfermarkt.es/ac-monza/startseite/verein/2919/saison_id/2021
+249|Castel di Sangro|48|58|https://www.transfermarkt.es/acr-messina/startseite/verein/1104/saison_id/2021
+250|Empoli|60|70|https://www.transfermarkt.es/benevento-calcio/startseite/verein/4171/saison_id/2021
+251|Ravenna|57|67|https://www.transfermarkt.es/us-salernitana-1919/startseite/verein/380/saison_id/2021
+252|Alessandria|45|55|https://www.transfermarkt.es/lr-vicenza-virtus/startseite/verein/2655/saison_id/2021
+253|Alzano|53|63|https://www.transfermarkt.es/us-alessandria-calcio-1912/startseite/verein/2721/saison_id/2021
+254|Brescello|46|56|https://www.transfermarkt.es/piacenza-calcio-1919/startseite/verein/1408/saison_id/2021
+256|Carrarese|48|58|https://www.transfermarkt.es/modena-fc-2018/startseite/verein/1385/saison_id/2021
+257|Modena|49|59|https://www.transfermarkt.es/mantova-1911/startseite/verein/2581/saison_id/2021
+258|Montevarchi|47|57|
+262|Siena|53|63|https://www.transfermarkt.es/como-1907/startseite/verein/1047/saison_id/2021
+263|Spal|49|59|https://www.transfermarkt.es/ssc-bari/startseite/verein/332/saison_id/2021
+264|Spezia|37|47|https://www.transfermarkt.es/us-catanzaro/startseite/verein/4097/saison_id/2021
+265|Treviso|55|65|https://www.transfermarkt.es/ac-perugia-calcio/startseite/verein/839/saison_id/2021
+268|Atl. Catania|45|55|https://www.transfermarkt.es/catania-calcio/startseite/verein/1627/saison_id/2021
+269|Fermana|49|59|https://www.transfermarkt.es/calcio-foggia-1920/startseite/verein/704/saison_id/2021
+270|Giulianova|46|56|https://www.transfermarkt.es/us-vibonese/startseite/verein/8077/saison_id/2021
+272|Juve Stabia|48|58|
+273|Lodigiani|46|56|https://www.transfermarkt.es/ssd-pro-sesto/startseite/verein/2254/saison_id/2021
+274|Nocerina|48|58|https://www.transfermarkt.es/fermana-fc/startseite/verein/4033/saison_id/2021
+275|Savoia|54|64|https://www.transfermarkt.es/teramo-calcio-1913/startseite/verein/1415/saison_id/2021
+278|Livorno|48|58|https://www.transfermarkt.es/carrarese-calcio-1908/startseite/verein/4159/saison_id/2021
+279|Lumezzane|49|59|https://www.transfermarkt.es/virtus-entella/startseite/verein/20519/saison_id/2021
+280|Lecco|48|58|https://www.transfermarkt.es/us-viterbese-1908/startseite/verein/22294/saison_id/2021
+281|Ternana|56|66|https://www.transfermarkt.es/ternana-calcio/startseite/verein/1103/saison_id/2021
+283|Cittadella|51|61|https://www.transfermarkt.es/as-cittadella/startseite/verein/4084/saison_id/2021
+284|Arezzo|49|59|https://www.transfermarkt.es/us-triestina/startseite/verein/4271/saison_id/2021
+285|Marsala|46|56|
+286|Crotone|54|64|https://www.transfermarkt.es/fc-crotone/startseite/verein/4083/saison_id/2021
+287|Albino Leffe|47|57|https://www.transfermarkt.es/calcio-padova/startseite/verein/3037/saison_id/2021
+288|Pisa|50|60|https://www.transfermarkt.es/virtusvecomp-verona/startseite/verein/29251/saison_id/2021
+289|Sandonà|45|55|
+290|Catania|50|60|https://www.transfermarkt.es/potenza-calcio/startseite/verein/7197/saison_id/2021
+291|Benevento|49|59|https://www.transfermarkt.es/ss-monopoli-1966/startseite/verein/33734/saison_id/2021
+292|Viterbese|49|59|https://www.transfermarkt.es/aquila-1902-montevarchi/startseite/verein/4339/saison_id/2021
+293|Torres|44|54|https://www.transfermarkt.es/acn-siena-1904/startseite/verein/1387/saison_id/2021
+294|L'Aquila|42|52|https://www.transfermarkt.es/ssd-fidelis-andria/startseite/verein/4085/saison_id/2021
+295|Vis Pesaro|49|59|https://www.transfermarkt.es/cesena-fc/startseite/verein/1429/saison_id/2021
+296|Messina|43|53|https://www.transfermarkt.es/fc-legnago-salus/startseite/verein/30066/saison_id/2021
+9957|Juveniles ITALIANOS|76|86|

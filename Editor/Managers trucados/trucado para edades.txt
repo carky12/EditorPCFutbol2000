@@ -1,0 +1,10 @@
+En el manager.exe hay una limitación para la edad de los
+jugadores. No pueden tener menos de 12 años. Por tanto
+el límite está en 1988. 
+
+Para quitar esta limitación hay que sustituir en el manager
+C4070000 por 34080000. Esto es C407 es 1988 y 3408 es 2100.
+
+Es decir se cambia el limite del año 1988 al año 2100.
+
+En el manager de la version normal el límite es 1987.

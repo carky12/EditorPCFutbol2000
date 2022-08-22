@@ -1,0 +1,12 @@
+2002|TPV|60|70|https://www.transfermarkt.es/fc-ktp/startseite/verein/7315/saison_id/2020
+2003|MyPa|56|66|https://www.transfermarkt.es/kuopion-palloseura/startseite/verein/6251/saison_id/2020
+2004|Haka|62|72|https://www.transfermarkt.es/fc-haka/startseite/verein/1225/saison_id/2020
+2005|Jazz|44|54|https://www.transfermarkt.es/sjk-seinajoki/startseite/verein/23777/saison_id/2020
+2006|HJK Helsinki|52|62|https://www.transfermarkt.es/hjk-helsinki/startseite/verein/1008/saison_id/2020
+2007|Jokerit|41|51|https://www.transfermarkt.es/fc-inter-turku/startseite/verein/8042/saison_id/2020
+0|equipo1|44|65|https://www.transfermarkt.es/ilves-tampere/startseite/verein/3189/saison_id/2020
+0|equipo1|44|65|https://www.transfermarkt.es/fc-honka/startseite/verein/5411/saison_id/2020
+0|equipo1|44|65|https://www.transfermarkt.es/ifk-mariehamn/startseite/verein/6017/saison_id/2020
+0|equipo1|44|65|https://www.transfermarkt.es/helsinki-ifk/startseite/verein/20924/saison_id/2020
+0|equipo1|44|65|https://www.transfermarkt.es/ac-oulu/startseite/verein/7008/saison_id/2020
+0|equipo1|44|65|https://www.transfermarkt.es/fc-lahti/startseite/verein/2925/saison_id/2020

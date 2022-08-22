@@ -1,0 +1,16 @@
+751|Spartak Moscú|67|77|https://www.transfermarkt.es/spartak-moskau/startseite/verein/232/saison_id/2021
+752|Dinamo Moscú|65|75|https://www.transfermarkt.es/dinamo-moskau/startseite/verein/121/saison_id/2021
+753|Rotor|66|76|https://www.transfermarkt.es/fk-krasnodar/startseite/verein/16704/saison_id/2021
+754|A. Vladikavkaz|64|74|https://www.transfermarkt.es/rubin-kazan/startseite/verein/2698/saison_id/2021
+755|Lokomotiv M.|68|78|https://www.transfermarkt.es/lokomotiv-moskau/startseite/verein/932/saison_id/2021
+756|CSKA Moscú|66|76|https://www.transfermarkt.es/zska-moskau/startseite/verein/2410/saison_id/2021
+757|Torpedo Moscú|68|78|https://www.transfermarkt.es/fk-sochi/startseite/verein/41231/saison_id/2021
+758|Rostov|57|67|https://www.transfermarkt.es/fk-rostov/startseite/verein/1083/saison_id/2021
+759|Zenit S. Petersb.|57|67|https://www.transfermarkt.es/zenit-st-petersburg/startseite/verein/964/saison_id/2021
+0|EQUIPO1|57|75|https://www.transfermarkt.es/arsenal-tula/startseite/verein/3729/saison_id/2021
+0|EQUIPO1|57|75|https://www.transfermarkt.es/akhmat-grozny/startseite/verein/3725/saison_id/2021
+0|EQUIPO1|57|75|https://www.transfermarkt.es/krylya-sovetov-samara/startseite/verein/2696/saison_id/2021
+0|EQUIPO1|57|75|https://www.transfermarkt.es/fk-khimki/startseite/verein/3719/saison_id/2021
+0|EQUIPO1|57|75|https://www.transfermarkt.es/ural-ekaterinburg/startseite/verein/11127/saison_id/2021
+0|EQUIPO1|57|75|https://www.transfermarkt.es/fk-ufa/startseite/verein/28095/saison_id/2021
+0|EQUIPO1|57|75|https://www.transfermarkt.es/fk-nizhny-novgorod/startseite/verein/49702/saison_id/2021

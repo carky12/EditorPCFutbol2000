@@ -1,0 +1,8 @@
+4125|Neftchi|40|50|https://www.transfermarkt.es/qaraba%C4%9F-fk/startseite/verein/10625/saison_id/2021
+4126|Kapaz Ganja|56|66|https://www.transfermarkt.es/neftchi-baku/startseite/verein/8031/saison_id/2021
+4127|Karabakh|40|50|https://www.transfermarkt.es/fk-qabala/startseite/verein/22010/saison_id/2021
+4128|Shamkir|45|55|https://www.transfermarkt.es/zira-fk/startseite/verein/46710/saison_id/2021
+0|Equipo1|53|63|https://www.transfermarkt.es/sumqayit-pfk/startseite/verein/36999/saison_id/2021
+0|Equipo1|53|63|https://www.transfermarkt.es/keshla-fk/startseite/verein/8956/saison_id/2021
+0|Equipo1|53|63|https://www.transfermarkt.es/fk-sabail/startseite/verein/57890/saison_id/2021
+0|Equipo1|53|63|https://www.transfermarkt.es/sabah-fk/startseite/verein/63993/saison_id/2021

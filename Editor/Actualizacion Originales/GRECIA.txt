@@ -1,0 +1,14 @@
+1301|Panathinaikos|67|77|https://www.transfermarkt.es/panathinaikos-athen/startseite/verein/265/saison_id/2021
+1302|AEK Atenas|67|77|https://www.transfermarkt.es/aek-athen/startseite/verein/2441/saison_id/2021
+1303|Olympiakos|66|76|https://www.transfermarkt.es/olympiakos-piraus/startseite/verein/683/saison_id/2021
+1304|Apollon|67|77|https://www.transfermarkt.es/apollon-smyrnis/startseite/verein/441/saison_id/2021
+1305|Iraklis|66|76|https://www.transfermarkt.es/volos-nps/startseite/verein/60949/saison_id/2021
+1306|OFI|67|77|https://www.transfermarkt.es/ofi-kreta/startseite/verein/653/saison_id/2021
+1307|Paniliakos|65|75|https://www.transfermarkt.es/panetolikos-gfs/startseite/verein/6418/saison_id/2021
+1308|Aris|62|72|https://www.transfermarkt.es/aris-thessaloniki/startseite/verein/605/saison_id/2021
+1309|Ionikos|66|76|https://www.transfermarkt.es/pas-giannina/startseite/verein/2671/saison_id/2021
+1310|Edessaikos|66|76|https://www.transfermarkt.es/atromitos-athen/startseite/verein/3060/saison_id/2021
+1312|PAOK|66|76|https://www.transfermarkt.es/paok-thessaloniki/startseite/verein/1091/saison_id/2021
+1313|Panionios|63|73|https://www.transfermarkt.es/ionikos-nikeas/startseite/verein/553/saison_id/2021
+1314|Kalamata|58|68|https://www.transfermarkt.es/asteras-tripolis/startseite/verein/6676/saison_id/2021
+0|equipo1|58|68|https://www.transfermarkt.es/pas-lamia-1964/startseite/verein/3999/saison_id/2021

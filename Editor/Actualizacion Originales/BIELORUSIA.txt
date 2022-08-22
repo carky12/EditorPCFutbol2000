@@ -1,0 +1,6 @@
+2701|Dinamo Minsk|64|74|https://www.transfermarkt.es/dinamo-minsk/startseite/verein/1180/saison_id/2020
+4075|Mozyr|47|57|https://www.transfermarkt.es/shakhtjor-soligorsk/startseite/verein/10695/saison_id/2020
+4076|Dnepr|57|67|https://www.transfermarkt.es/dynamo-brest/startseite/verein/6131/saison_id/2020
+4077|Gomel|43|53|https://www.transfermarkt.es/fk-gomel/startseite/verein/10694/saison_id/2020
+4078|Bate Borisov|59|69|https://www.transfermarkt.es/bate-borisov/startseite/verein/713/saison_id/2020
+0|Equipo1|53|63|https://www.transfermarkt.es/rukh-brest/startseite/verein/63130/saison_id/2020

@@ -1,0 +1,4 @@
+G:Portero
+F:Delantero
+M:Medio
+D:Defensa

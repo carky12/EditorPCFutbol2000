@@ -1,0 +1,15 @@
+CAM:Medio
+CB:Defensa
+CF:Medio
+CDM:Medio
+CM:Medio
+GK:Portero
+LB:Defensa
+LW:Medio
+LWB:Medio
+RB:Defensa
+RM:Medio
+LM:Medio
+RW:Medio
+RWB:Medio
+ST:Delantero

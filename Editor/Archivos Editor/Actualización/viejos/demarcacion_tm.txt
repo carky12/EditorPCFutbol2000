@@ -1,0 +1,20 @@
+Portero:Portero
+Defensa central:Defensa
+Defensa:Defensa
+Lateral izquierdo:Defensa
+Lateral izquierdo:Defensa
+Lateral derecho:Defensa
+Pivote:Medio
+Centrocampista:Medio
+Mediocentro:Medio
+Medio campo:Medio
+Mediocentro ofensivo:Medio
+Mediapunta:Medio
+Extremo izquierdo:Delantero
+Extremo derecho:Delantero
+Delantero centro:Delantero
+Delantero:Delantero
+Interior derecho:Medio
+Interior izquierdo:Medio
+
+

@@ -1,0 +1,10 @@
+3200|Olimpia Asun.|65|75|https://www.transfermarkt.es/olimpia-asuncion/startseite/verein/629/saison_id/2020
+3201|Cerro Porteño|64|74|https://www.transfermarkt.es/club-cerro-porteno/startseite/verein/1214/saison_id/2020
+3202|Guaraní|64|74|https://www.transfermarkt.es/club-guarani/startseite/verein/11855/saison_id/2020
+3203|At. Colegiales|50|60|https://www.transfermarkt.es/club-libertad-asuncion/startseite/verein/9875/saison_id/2020
+0|EQUIPO1|60|70|https://www.transfermarkt.es/club-sol-de-america/startseite/verein/14491/saison_id/2020
+0|EQUIPO1|60|70|https://www.transfermarkt.es/club-nacional-asuncion/startseite/verein/7098/saison_id/2020
+0|EQUIPO1|60|70|https://www.transfermarkt.es/guairena-fc/startseite/verein/63181/saison_id/2020
+0|EQUIPO1|60|70|https://www.transfermarkt.es/sportivo-luqueno/startseite/verein/7656/saison_id/2020
+0|EQUIPO1|60|70|https://www.transfermarkt.es/river-plate-asuncion/startseite/verein/2124/saison_id/2020
+0|EQUIPO1|60|70|https://www.transfermarkt.es/club-12-de-octubre-de-itaugua/startseite/verein/14662/saison_id/2020

@@ -1,0 +1,10 @@
+2251|Zalguiris Vilnius|59|69|https://www.transfermarkt.es/zalgiris-vilnius/startseite/verein/602/saison_id/2020
+2252|Inkaras Kaunas|56|66|https://www.transfermarkt.es/suduva-marijampole/startseite/verein/8047/saison_id/2020
+2253|Kareda S.|50|60|https://www.transfermarkt.es/fk-riteriai/startseite/verein/32832/saison_id/2020
+2254|FK Zalguiris Kaunas|38|48|https://www.transfermarkt.es/fk-kauno-zalgiris/startseite/verein/40090/saison_id/2020
+2255|Ekranas Panevezys|55|65|https://www.transfermarkt.es/fk-panevezys/startseite/verein/49149/saison_id/2020
+2256|Atlantas|43|53|https://www.transfermarkt.es/fk-banga-gargzdai/startseite/verein/23559/saison_id/2020
+0|EQUIPO1|55|65|https://www.transfermarkt.es/dainava-alytus/startseite/verein/30739/saison_id/2020
+0|EQUIPO1|55|65|https://www.transfermarkt.es/fc-d%C5%BEiugas-telsiai/startseite/verein/28740/saison_id/2020
+0|EQUIPO1|55|65|https://www.transfermarkt.es/fc-hegelmann-litauen/startseite/verein/69752/saison_id/2020
+0|EQUIPO1|55|65|https://www.transfermarkt.es/fk-nevezis/startseite/verein/30856/saison_id/2020

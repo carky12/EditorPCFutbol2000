@@ -1,0 +1,21 @@
+2951|Caracas F.C|63|73|https://www.transfermarkt.es/caracas-fc/startseite/verein/531/saison_id/2020
+2953|Minervén|61|71|https://www.transfermarkt.es/metropolitanos-fc/startseite/verein/42918/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/deportivo-tachira/startseite/verein/13297/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/deportivo-la-guaira/startseite/verein/26468/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/aragua-fc/startseite/verein/8331/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/zamora-fc/startseite/verein/18018/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/deportivo-lara/startseite/verein/25380/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/monagas-sc/startseite/verein/14596/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/atletico-venezuela/startseite/verein/30504/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/academia-puerto-cabello/startseite/verein/45193/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/estudiantes-de-merida/startseite/verein/14555/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/portuguesa-fc/startseite/verein/22918/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/yaracuyanos-futbol-club/startseite/verein/24982/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/cd-hermanos-colmenarez/startseite/verein/67224/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/gv-maracay/startseite/verein/36947/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/mineros-de-guayana/startseite/verein/17194/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/carabobo-fc/startseite/verein/14682/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/zulia-fc/startseite/verein/19396/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/universidad-central-de-venezuela/startseite/verein/43146/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/ac-lala-fc/startseite/verein/43160/saison_id/2020
+0|EQUIPO1|60|75|https://www.transfermarkt.es/trujillanos-fc/startseite/verein/17392/saison_id/2020

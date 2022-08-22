@@ -1,0 +1,12 @@
+1201|Aalborg|61|71|https://www.transfermarkt.es/aalborg-bk/startseite/verein/1053/saison_id/2021
+1202|Copenhague|64|74|https://www.transfermarkt.es/fc-kopenhagen/startseite/verein/190/saison_id/2021
+1203|Brondby|64|74|https://www.transfermarkt.es/brondby-if/startseite/verein/206/saison_id/2021
+1204|Silkeborg|59|69|https://www.transfermarkt.es/silkeborg-if/startseite/verein/1177/saison_id/2021
+1205|Aarhus|61|71|https://www.transfermarkt.es/aarhus-gf/startseite/verein/678/saison_id/2021
+1207|Lyngby|58|68|https://www.transfermarkt.es/vejle-boldklub/startseite/verein/443/saison_id/2021
+1208|Viborg FF|59|69|https://www.transfermarkt.es/viborg-ff/startseite/verein/1063/saison_id/2021
+1209|Vejle BK|61|71|https://www.transfermarkt.es/randers-fc/startseite/verein/5724/saison_id/2021
+1210|Herfolge BK|61|71|https://www.transfermarkt.es/fc-midtjylland/startseite/verein/865/saison_id/2021
+1212|Naestved BK|60|70|https://www.transfermarkt.es/fc-nordsjaelland/startseite/verein/2778/saison_id/2021
+1213|Fremad|61|71|https://www.transfermarkt.es/sonderjyske/startseite/verein/5817/saison_id/2021
+1214|Akademisk B.|53|63|https://www.transfermarkt.es/odense-boldklub/startseite/verein/173/saison_id/2021

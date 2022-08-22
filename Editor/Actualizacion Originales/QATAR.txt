@@ -1,0 +1,12 @@
+0|EQUIPO1|55|75|https://www.transfermarkt.es/al-rayyan-sc/startseite/verein/3229/saison_id/2021
+0|EQUIPO1|55|75|https://www.transfermarkt.es/al-duhail-sc/startseite/verein/26091/saison_id/2021
+0|EQUIPO1|55|75|https://www.transfermarkt.es/al-sadd-sc/startseite/verein/656/saison_id/2021
+0|EQUIPO1|55|75|https://www.transfermarkt.es/al-arabi-sc/startseite/verein/1230/saison_id/2021
+0|EQUIPO1|55|75|https://www.transfermarkt.es/al-gharafa-sc/startseite/verein/6297/saison_id/2021
+0|EQUIPO1|55|75|https://www.transfermarkt.es/qatar-sc/startseite/verein/965/saison_id/2021
+0|EQUIPO1|55|75|https://www.transfermarkt.es/al-khor-sc/startseite/verein/5381/saison_id/2021
+0|EQUIPO1|55|75|https://www.transfermarkt.es/al-ahli-sc/startseite/verein/3612/saison_id/2021
+0|EQUIPO1|55|75|https://www.transfermarkt.es/al-sailiya-sc/startseite/verein/4630/saison_id/2021
+0|EQUIPO1|55|75|https://www.transfermarkt.es/al-wakrah-sc/startseite/verein/13509/saison_id/2021
+0|EQUIPO1|55|75|https://www.transfermarkt.es/umm-salal-sc/startseite/verein/10920/saison_id/2021
+0|EQUIPO1|55|75|https://www.transfermarkt.es/al-shamal/startseite/verein/10775/saison_id/2021

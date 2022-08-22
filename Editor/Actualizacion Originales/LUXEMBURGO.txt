@@ -1,0 +1,16 @@
+1801|Grevenmacher|59|69|https://www.transfermarkt.es/fc-swift-hesperingen/startseite/verein/9284/saison_id/2021
+1802|Jeunesse|56|66|https://www.transfermarkt.es/jeunesse-esch/startseite/verein/1257/saison_id/2021
+1804|Avenir Beggen|56|66|https://www.transfermarkt.es/cs-fola-esch/startseite/verein/11976/saison_id/2021
+5501|F91 Dudelange|55|65|https://www.transfermarkt.es/f91-dudelingen/startseite/verein/853/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/racing-fc-union-luxemburg/startseite/verein/13467/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/fc-progres-niederkorn/startseite/verein/12346/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/fc-differdingen-03/startseite/verein/11914/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/us-hostert/startseite/verein/21645/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/fc-wiltz-71/startseite/verein/3905/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/union-titus-petingen/startseite/verein/48712/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/us-mondorf-les-bains/startseite/verein/21274/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/fc-una-strassen/startseite/verein/21835/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/fc-victoria-rosport/startseite/verein/2660/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/fc-etzella-ettelbruck/startseite/verein/9283/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/fc-rodange-91/startseite/verein/21803/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/fc-rm-hamm-benfica/startseite/verein/15154/saison_id/2021

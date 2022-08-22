@@ -1,0 +1,14 @@
+2101|M.Tel Aviv|56|66|https://www.transfermarkt.es/maccabi-tel-aviv/startseite/verein/119/saison_id/2021
+2102|Maccabi Haifa|59|69|https://www.transfermarkt.es/maccabi-haifa/startseite/verein/1064/saison_id/2021
+2103|Beitar|45|55|https://www.transfermarkt.es/beitar-jerusalem/startseite/verein/3793/saison_id/2021
+2104|H.Tel Aviv|60|70|https://www.transfermarkt.es/hapoel-tel-aviv/startseite/verein/1017/saison_id/2021
+2105|Hap. Petach|48|58|https://www.transfermarkt.es/hapoel-beer-sheva/startseite/verein/2976/saison_id/2021
+2107|H. Haifa|58|68|https://www.transfermarkt.es/hapoel-haifa/startseite/verein/810/saison_id/2021
+0|equipo1|58|68|https://www.transfermarkt.es/fc-ashdod/startseite/verein/6105/saison_id/2021
+0|equipo1|58|68|https://www.transfermarkt.es/maccabi-netanya/startseite/verein/5223/saison_id/2021
+0|equipo1|58|68|https://www.transfermarkt.es/maccabi-petah-tikva/startseite/verein/3785/saison_id/2021
+0|equipo1|58|68|https://www.transfermarkt.es/ihud-bnei-sachnin/startseite/verein/4769/saison_id/2021
+0|equipo1|58|68|https://www.transfermarkt.es/hapoel-hadera/startseite/verein/51931/saison_id/2021
+0|equipo1|58|68|https://www.transfermarkt.es/hapoel-jerusalem/startseite/verein/43119/saison_id/2021
+0|equipo1|58|68|https://www.transfermarkt.es/hapoel-nof-hagalil/startseite/verein/7000/saison_id/2021
+0|equipo1|58|68|https://www.transfermarkt.es/ironi-kiryat-shmona/startseite/verein/6028/saison_id/2021

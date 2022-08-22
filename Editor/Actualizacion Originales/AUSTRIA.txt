@@ -1,0 +1,12 @@
+1151|W. Salzburgo|65|75|https://www.transfermarkt.es/red-bull-salzburg/startseite/verein/409/saison_id/2021
+1152|Rapid Viena|66|76|https://www.transfermarkt.es/sk-rapid-wien/startseite/verein/170/saison_id/2021
+1153|Sturm Graz|65|75|https://www.transfermarkt.es/sk-sturm-graz/startseite/verein/122/saison_id/2021
+1154|Austria M.|65|75|https://www.transfermarkt.es/sk-austria-klagenfurt/startseite/verein/28760/saison_id/2021
+1155|Tirol|64|74|https://www.transfermarkt.es/wolfsberger-ac/startseite/verein/4441/saison_id/2021
+1156|Grazer AK|62|72|https://www.transfermarkt.es/fc-admira-wacker-modling/startseite/verein/503/saison_id/2021
+1157|LASK Linz|62|72|https://www.transfermarkt.es/fk-austria-wien/startseite/verein/14/saison_id/2021
+1158|SV Ried|63|73|https://www.transfermarkt.es/sv-ried/startseite/verein/266/saison_id/2021
+1160|A. Lustenau|60|70|https://www.transfermarkt.es/tsv-hartberg/startseite/verein/4467/saison_id/2021
+1161|Vorwärts Steyr|60|70|https://www.transfermarkt.es/lask/startseite/verein/413/saison_id/2021
+0|Equipo1|53|63|https://www.transfermarkt.es/scr-altach/startseite/verein/3551/saison_id/2021
+0|Equipo1|53|63|https://www.transfermarkt.es/wsg-tirol/startseite/verein/2446/saison_id/2021

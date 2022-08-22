@@ -1,0 +1,29 @@
+851|Anderlecht|67|77|https://www.transfermarkt.es/rsc-anderlecht/startseite/verein/58/saison_id/2021
+852|Brujas|66|76|https://www.transfermarkt.es/fc-brugge/startseite/verein/2282/saison_id/2021
+853|Standard Lieja|64|74|https://www.transfermarkt.es/standard-luttich/startseite/verein/3057/saison_id/2021
+854|Lierse|59|69|https://www.transfermarkt.es/beerschot-v-a-/startseite/verein/41274/saison_id/2021
+855|Alost|61|71|https://www.transfermarkt.es/royale-union-saint-gilloise/startseite/verein/3948/saison_id/2021
+856|G. Ekeren|63|73|https://www.transfermarkt.es/kas-eupen/startseite/verein/1245/saison_id/2021
+859|Charleroi|64|74|https://www.transfermarkt.es/rsc-charleroi/startseite/verein/172/saison_id/2021
+860|Lommel|60|70|https://www.transfermarkt.es/royal-antwerpen-fc/startseite/verein/1096/saison_id/2021
+862|Harelbeke|60|70|https://www.transfermarkt.es/kv-mechelen/startseite/verein/354/saison_id/2021
+864|Gent|62|72|https://www.transfermarkt.es/kaa-gent/startseite/verein/157/saison_id/2021
+865|Sint Truidense|62|72|https://www.transfermarkt.es/vv-st-truiden/startseite/verein/475/saison_id/2021
+866|Mouscron|63|73|
+867|Genk|61|71|https://www.transfermarkt.es/krc-genk/startseite/verein/1184/saison_id/2021
+868|Ostende|54|64|https://www.transfermarkt.es/kv-oostende/startseite/verein/2861/saison_id/2021
+869|Kortrijk|60|70|https://www.transfermarkt.es/kv-kortrijk/startseite/verein/601/saison_id/2021|
+870|Beveren|57|67|https://www.transfermarkt.es/sv-zulte-waregem/startseite/verein/3508/saison_id/2021
+871|Lokeren|62|72|https://www.transfermarkt.es/rfc-seraing/startseite/verein/2715/saison_id/2021
+872|Westerlo|63|73|https://www.transfermarkt.es/oud-heverlee-leuven/startseite/verein/2727/saison_id/2021
+873|La Louviére|59|69|https://www.transfermarkt.es/cercle-brugge/startseite/verein/520/saison_id/2021
+
+
+
+
+
+
+
+
+
+

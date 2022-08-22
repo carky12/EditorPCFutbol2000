@@ -1,0 +1,12 @@
+1551|S. Bratislava|58|68|https://www.transfermarkt.es/slovan-bratislava/startseite/verein/540/saison_id/2021
+1552|Inter Bratislava|61|71|https://www.transfermarkt.es/dac-dunajska-streda/startseite/verein/4529/saison_id/2021
+1553|Chemlon H.|58|68|https://www.transfermarkt.es/as-trencin/startseite/verein/7918/saison_id/2021
+1554|Kosice|62|72|https://www.transfermarkt.es/mfk-ruzomberok/startseite/verein/7087/saison_id/2021
+1555|Spartak Trnava|63|73|https://www.transfermarkt.es/spartak-trnava/startseite/verein/365/saison_id/2021
+1556|Dukla Banska|63|73|https://www.transfermarkt.es/skf-sered/startseite/verein/31297/saison_id/2021
+1557|Tatran Presov|60|70|https://www.transfermarkt.es/tatran-liptovsky-mikulas/startseite/verein/20611/saison_id/2021
+1558|Bardejov|60|70|https://www.transfermarkt.es/fk-pohronie/startseite/verein/38269/saison_id/2021
+1559|Zilina|59|69|https://www.transfermarkt.es/msk-zilina/startseite/verein/1443/saison_id/2021
+0|EQUIPO1|59|69|https://www.transfermarkt.es/vion-zlate-moravce-vrable/startseite/verein/12005/saison_id/2021
+0|EQUIPO1|59|69|https://www.transfermarkt.es/zemplin-michalovce/startseite/verein/13744/saison_id/2021
+0|EQUIPO1|59|69|https://www.transfermarkt.es/fk-senica/startseite/verein/6163/saison_id/2021

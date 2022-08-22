@@ -1,0 +1,16 @@
+4701|Esteglhal|55|65|https://www.transfermarkt.es/esteghlal-fc/startseite/verein/1076/saison_id/2021
+0|equipo1|55|65|https://www.transfermarkt.es/persepolis-fc/startseite/verein/6079/saison_id/2021
+0|equipo1|55|65|https://www.transfermarkt.es/sepahan-fc/startseite/verein/4947/saison_id/2021
+0|equipo1|55|65|https://www.transfermarkt.es/gol-gohar-sirjan-fc/startseite/verein/34744/saison_id/2021
+0|equipo1|55|65|https://www.transfermarkt.es/foolad-fc/startseite/verein/6076/saison_id/2021
+0|equipo1|55|65|https://www.transfermarkt.es/tractor-fc/startseite/verein/12935/saison_id/2021
+0|equipo1|55|65|https://www.transfermarkt.es/mes-rafsanjan/startseite/verein/28344/saison_id/2021
+0|equipo1|55|65|https://www.transfermarkt.es/sanat-naft-fc/startseite/verein/20962/saison_id/2021
+0|equipo1|55|65|https://www.transfermarkt.es/zob-ahan-isfahan/startseite/verein/6081/saison_id/2021
+0|equipo1|55|65|https://www.transfermarkt.es/shahr-khodrou-fc/startseite/verein/42192/saison_id/2021
+0|equipo1|55|65|https://www.transfermarkt.es/naft-masjed-soleyman-fc/startseite/verein/42189/saison_id/2021
+0|equipo1|55|65|https://www.transfermarkt.es/aluminium-arak-fc/startseite/verein/42894/saison_id/2021
+0|equipo1|55|65|https://www.transfermarkt.es/fc-nassaji-mazandaran/startseite/verein/26013/saison_id/2021
+0|equipo1|55|65|https://www.transfermarkt.es/paykan-fc/startseite/verein/6078/saison_id/2021
+0|equipo1|55|65|https://www.transfermarkt.es/havadar-sc/startseite/verein/68324/saison_id/2021
+0|equipo1|55|65|https://www.transfermarkt.es/fajr-sepasi-shiraz/startseite/verein/6075/saison_id/2021

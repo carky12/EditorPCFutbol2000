@@ -1,0 +1,22 @@
+801|Ajax|70|80|https://www.transfermarkt.es/ajax-amsterdam/startseite/verein/610/saison_id/2021
+802|Feyenoord|67|77|https://www.transfermarkt.es/feyenoord-rotterdam/startseite/verein/234/saison_id/2021
+803|Roda|66|76|https://www.transfermarkt.es/go-ahead-eagles-deventer/startseite/verein/1435/saison_id/2021
+804|PSV|70|80|https://www.transfermarkt.es/psv-eindhoven/startseite/verein/383/saison_id/2021
+805|Vitesse|66|76|https://www.transfermarkt.es/vitesse-arnheim/startseite/verein/499/saison_id/2021
+806|Sparta|64|74|https://www.transfermarkt.es/sparta-rotterdam/startseite/verein/468/saison_id/2021
+807|Heerenveen|64|74|https://www.transfermarkt.es/sc-heerenveen/startseite/verein/306/saison_id/2021
+808|NAC|64|74|https://www.transfermarkt.es/fc-groningen/startseite/verein/202/saison_id/2021
+810|Twente|64|74|https://www.transfermarkt.es/fc-twente-enschede/startseite/verein/317/saison_id/2021
+811|Waalwijk|65|75|https://www.transfermarkt.es/rkc-waalwijk/startseite/verein/235/saison_id/2021
+812|Willem II|66|76|https://www.transfermarkt.es/willem-ii-tilburg/startseite/verein/403/saison_id/2021
+813|Fortuna Sitt.|65|75|https://www.transfermarkt.es/fortuna-sittard/startseite/verein/385/saison_id/2021
+814|De Graafschap|64|74|https://www.transfermarkt.es/heracles-almelo/startseite/verein/1304/saison_id/2021
+815|Utrecht|65|75|https://www.transfermarkt.es/fc-utrecht/startseite/verein/200/saison_id/2021
+817|NEC|65|75|https://www.transfermarkt.es/nec-nijmegen/startseite/verein/467/saison_id/2021
+818|AZ|65|75|https://www.transfermarkt.es/az-alkmaar/startseite/verein/1090/saison_id/2021
+820|MVV|64|74|https://www.transfermarkt.es/pec-zwolle/startseite/verein/1269/saison_id/2021
+821|Cambuur|65|75|https://www.transfermarkt.es/sc-cambuur-leeuwarden/startseite/verein/133/saison_id/2021
+
+
+
+

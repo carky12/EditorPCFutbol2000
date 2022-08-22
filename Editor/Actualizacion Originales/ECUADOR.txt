@@ -1,0 +1,16 @@
+2651|El Nacional|62|72|https://www.transfermarkt.es/independiente-del-valle/startseite/verein/19309/saison_id/2020
+2652|Emelec|63|73|https://www.transfermarkt.es/cs-emelec/startseite/verein/4561/saison_id/2020
+2653|Barc. Guayaquil|60|70|https://www.transfermarkt.es/barcelona-sc-guayaquil/startseite/verein/3523/saison_id/2020
+2654|Liga D. Univers.|48|58|https://www.transfermarkt.es/ldu-quito/startseite/verein/9855/saison_id/2020
+0|EQUIPO1|48|68|https://www.transfermarkt.es/cd-universidad-catolica/startseite/verein/17584/saison_id/2020
+0|EQUIPO1|48|68|https://www.transfermarkt.es/delfin-sc/startseite/verein/19304/saison_id/2020
+0|EQUIPO1|48|68|https://www.transfermarkt.es/deportivo-cuenca/startseite/verein/8781/saison_id/2020
+0|EQUIPO1|48|68|https://www.transfermarkt.es/manta-fc/startseite/verein/18099/saison_id/2020
+0|EQUIPO1|48|68|https://www.transfermarkt.es/guayaquil-city-fc/startseite/verein/25569/saison_id/2020
+0|EQUIPO1|48|68|https://www.transfermarkt.es/sd-aucas/startseite/verein/6362/saison_id/2020
+0|EQUIPO1|48|68|https://www.transfermarkt.es/ad-nueve-de-octubre/startseite/verein/19101/saison_id/2020
+0|EQUIPO1|48|68|https://www.transfermarkt.es/cd-macara/startseite/verein/17426/saison_id/2020
+0|EQUIPO1|48|68|https://www.transfermarkt.es/mushuc-runa-sc/startseite/verein/25576/saison_id/2020
+0|EQUIPO1|48|68|https://www.transfermarkt.es/orense-sc/startseite/verein/36020/saison_id/2020
+0|EQUIPO1|48|68|https://www.transfermarkt.es/tecnico-universitario/startseite/verein/19104/saison_id/2020
+0|EQUIPO1|48|68|https://www.transfermarkt.es/cd-olmedo/startseite/verein/9854/saison_id/2020

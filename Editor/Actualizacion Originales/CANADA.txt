@@ -1,0 +1,8 @@
+0|EQUIPO1|45|55|https://www.transfermarkt.es/cavalry-fc/startseite/verein/67000/saison_id/2020
+0|EQUIPO1|45|55|https://www.transfermarkt.es/pacific-fc/startseite/verein/68221/saison_id/2020
+0|EQUIPO1|45|55|https://www.transfermarkt.es/forge-fc/startseite/verein/68029/saison_id/2020
+0|EQUIPO1|45|55|https://www.transfermarkt.es/fc-edmonton/startseite/verein/28170/saison_id/2020
+0|EQUIPO1|45|55|https://www.transfermarkt.es/atletico-ottawa/startseite/verein/79097/saison_id/2020
+0|EQUIPO1|45|55|https://www.transfermarkt.es/valour-fc/startseite/verein/67215/saison_id/2020
+0|EQUIPO1|45|55|https://www.transfermarkt.es/york-united-fc/startseite/verein/67002/saison_id/2020
+0|EQUIPO1|45|55|https://www.transfermarkt.es/hfx-wanderers-fc/startseite/verein/67001/saison_id/2020

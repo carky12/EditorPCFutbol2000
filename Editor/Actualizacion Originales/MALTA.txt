@@ -1,0 +1,12 @@
+2151|Valletta|58|68|https://www.transfermarkt.es/valletta-fc/startseite/verein/6335/saison_id/2021
+2152|Hibernians|57|67|https://www.transfermarkt.es/hibernians-fc/startseite/verein/10604/saison_id/2021
+2153|Sliema|59|69|https://www.transfermarkt.es/sliema-wanderers/startseite/verein/329/saison_id/2021
+2154|Floriana|40|50|https://www.transfermarkt.es/floriana-fc/startseite/verein/10603/saison_id/2021
+2155|Birkirkara|55|65|https://www.transfermarkt.es/birkirkara-fc/startseite/verein/10262/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/hamrun-spartans/startseite/verein/17149/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/gzira-united-fc/startseite/verein/32768/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/balzan-fc/startseite/verein/32129/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/gudja-united-fc/startseite/verein/37647/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/mosta-fc/startseite/verein/32125/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/santa-lucia-fc/startseite/verein/37653/saison_id/2021
+0|EQUIPO1|55|65|https://www.transfermarkt.es/sirens-fc/startseite/verein/39803/saison_id/2021

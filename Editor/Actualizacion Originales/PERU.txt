@@ -1,0 +1,18 @@
+2751|Universitario|63|73|https://www.transfermarkt.es/universitario-de-deportes/startseite/verein/6593/saison_id/2020
+2752|Alianza Lima|64|74|https://www.transfermarkt.es/club-alianza-lima/startseite/verein/184/saison_id/2020
+2753|Sporting Cristal|62|72|https://www.transfermarkt.es/club-sporting-cristal/startseite/verein/1450/saison_id/2020
+0|EQUIPO1|64|72|https://www.transfermarkt.es/fbc-melgar/startseite/verein/2734/saison_id/2020
+0|EQUIPO1|64|72|https://www.transfermarkt.es/deportivo-municipal/startseite/verein/17974/saison_id/2020
+0|EQUIPO1|64|72|https://www.transfermarkt.es/sport-huancayo/startseite/verein/21655/saison_id/2020
+0|EQUIPO1|64|72|https://www.transfermarkt.es/club-cienciano/startseite/verein/2729/saison_id/2020
+0|EQUIPO1|64|72|https://www.transfermarkt.es/carlos-a-mannucci/startseite/verein/19520/saison_id/2020
+0|EQUIPO1|64|72|https://www.transfermarkt.es/ayacucho-fc/startseite/verein/21178/saison_id/2020
+0|EQUIPO1|64|72|https://www.transfermarkt.es/cusco-fc/startseite/verein/28999/saison_id/2020
+0|EQUIPO1|64|72|https://www.transfermarkt.es/alianza-atletico-sullana/startseite/verein/17479/saison_id/2020
+0|EQUIPO1|64|72|https://www.transfermarkt.es/universidad-cesar-vallejo/startseite/verein/6889/saison_id/2020
+0|EQUIPO1|64|72|https://www.transfermarkt.es/universidad-san-martin-de-porres/startseite/verein/11622/saison_id/2020
+0|EQUIPO1|64|72|https://www.transfermarkt.es/deportivo-binacional/startseite/verein/41054/saison_id/2020
+0|EQUIPO1|64|72|https://www.transfermarkt.es/academia-deportiva-cantolao/startseite/verein/11247/saison_id/2020
+0|EQUIPO1|64|72|https://www.transfermarkt.es/alianza-universidad/startseite/verein/35589/saison_id/2020
+0|EQUIPO1|64|72|https://www.transfermarkt.es/utc-cajamarca/startseite/verein/21170/saison_id/2020
+0|EQUIPO1|64|72|https://www.transfermarkt.es/sport-boys-association/startseite/verein/2730/saison_id/2020

@@ -1,0 +1,16 @@
+1451|Hradec Kral.|59|69|https://www.transfermarkt.es/fc-hradec-kralove/startseite/verein/1897/saison_id/2021
+1452|Sparta Praga|64|74|https://www.transfermarkt.es/ac-sparta-prag/startseite/verein/197/saison_id/2021
+1453|Slavia Praga|65|75|https://www.transfermarkt.es/sk-slavia-prag/startseite/verein/62/saison_id/2021
+1454|Sigma Olomouc|52|62|https://www.transfermarkt.es/sk-sigma-olmutz/startseite/verein/2311/saison_id/2021
+1455|Jablonec N.|60|70|https://www.transfermarkt.es/fk-jablonec/startseite/verein/1322/saison_id/2021
+1456|Petra Drnovice|60|70|https://www.transfermarkt.es/mfk-karvina/startseite/verein/13726/saison_id/2021
+1457|Boby Brno|62|72|https://www.transfermarkt.es/fc-fastav-zlin/startseite/verein/5545/saison_id/2021
+1458|Banik Ostrava|61|71|https://www.transfermarkt.es/fc-banik-ostrau/startseite/verein/377/saison_id/2021
+1459|Teplice|61|71|https://www.transfermarkt.es/fk-teplice/startseite/verein/814/saison_id/2021
+1460|Slovan Liberec|60|70|https://www.transfermarkt.es/fc-slovan-liberec/startseite/verein/697/saison_id/2021
+1461|Blsani|57|67|https://www.transfermarkt.es/fk-pardubice/startseite/verein/1496/saison_id/2021
+1462|Dukla Pribram|58|68|https://www.transfermarkt.es/fk-mlada-boleslav/startseite/verein/5546/saison_id/2021
+0|EQUIPO1|50|65|https://www.transfermarkt.es/fc-viktoria-pilsen/startseite/verein/941/saison_id/2021
+0|EQUIPO1|50|65|https://www.transfermarkt.es/1-fc-slovacko/startseite/verein/5544/saison_id/2021
+0|EQUIPO1|50|65|https://www.transfermarkt.es/fc-bohemians-prag-1905/startseite/verein/715/saison_id/2021
+0|EQUIPO1|50|65|https://www.transfermarkt.es/sk-dynamo-ceske-budejovice/startseite/verein/1321/saison_id/2021

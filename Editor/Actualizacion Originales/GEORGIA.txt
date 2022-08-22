@@ -1,0 +1,10 @@
+2502|Dinamo Tbilisi|64|74|https://www.transfermarkt.es/dinamo-tiflis/startseite/verein/663/saison_id/2020
+2503|Dinamo Batumi|55|65|https://www.transfermarkt.es/dinamo-batumi/startseite/verein/11344/saison_id/2020
+2504|Lokomot. Tbilisi|54|64|https://www.transfermarkt.es/fc-locomotive-tiflis/startseite/verein/6365/saison_id/2020
+2505|Torpedo Kutaisi|54|64|https://www.transfermarkt.es/torpedo-kutaisi/startseite/verein/253/saison_id/2020
+2506|Georgia Tbilisi|53|63|https://www.transfermarkt.es/fc-telavi/startseite/verein/41310/saison_id/2020
+0|equipo1|43|63|https://www.transfermarkt.es/fc-samgurali-tskaltubo/startseite/verein/29675/saison_id/2020
+0|equipo1|43|63|https://www.transfermarkt.es/fc-saburtalo/startseite/verein/41133/saison_id/2020
+0|equipo1|43|63|https://www.transfermarkt.es/fc-dila-gori/startseite/verein/32017/saison_id/2020
+0|equipo1|43|63|https://www.transfermarkt.es/fc-samtredia/startseite/verein/2950/saison_id/2020
+0|equipo1|43|63|https://www.transfermarkt.es/shukura-kobuleti/startseite/verein/37760/saison_id/2020

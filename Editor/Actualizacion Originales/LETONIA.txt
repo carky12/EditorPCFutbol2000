@@ -1,0 +1,9 @@
+4000|Skonto|53|63|https://www.transfermarkt.es/fc-riga/startseite/verein/48325/saison_id/2020
+4001|Met. Liepaja|56|66|https://www.transfermarkt.es/fk-liepaja/startseite/verein/43162/saison_id/2020
+4002|Ventspils|46|56|https://www.transfermarkt.es/fk-ventspils/startseite/verein/2782/saison_id/2020
+4003|Dinanburg|57|67|https://www.transfermarkt.es/fk-rfs/startseite/verein/33783/saison_id/2020
+0|EQUIPO1|46|66|https://www.transfermarkt.es/valmiera-fc/startseite/verein/5084/saison_id/2020
+0|EQUIPO1|46|66|https://www.transfermarkt.es/spartaks-jurmala/startseite/verein/28936/saison_id/2020
+0|EQUIPO1|46|66|https://www.transfermarkt.es/bfc-daugavpils/startseite/verein/28931/saison_id/2020
+0|EQUIPO1|46|66|https://www.transfermarkt.es/fk-metta/startseite/verein/28770/saison_id/2020
+0|EQUIPO1|46|66|https://www.transfermarkt.es/fc-noah-jurmala/startseite/verein/77492/saison_id/2020

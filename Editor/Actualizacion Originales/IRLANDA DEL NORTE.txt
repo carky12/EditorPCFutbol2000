@@ -1,0 +1,12 @@
+1901|Linfield|59|69|https://www.transfermarkt.es/linfield-fc/startseite/verein/3471/saison_id/2021
+1902|Crusaders|60|70|https://www.transfermarkt.es/crusaders-fc/startseite/verein/21532/saison_id/2021
+1903|Glenavon|63|73|https://www.transfermarkt.es/glenavon-fc/startseite/verein/3463/saison_id/2021
+1904|Portadown|52|62|https://www.transfermarkt.es/portadown-fc/startseite/verein/5594/saison_id/2021
+1905|Glentoran|61|71|https://www.transfermarkt.es/glentoran-fc/startseite/verein/9026/saison_id/2021
+1906|Cliftonville|53|63|https://www.transfermarkt.es/cliftonville-fc/startseite/verein/1251/saison_id/2021
+1909|Ballymena|61|71|https://www.transfermarkt.es/ballymena-united/startseite/verein/15244/saison_id/2021
+1910|Coleraine|61|71|https://www.transfermarkt.es/coleraine-fc/startseite/verein/3831/saison_id/2021
+1911|Omagh|62|72|https://www.transfermarkt.es/warrenpoint-town-fc/startseite/verein/40654/saison_id/2021
+1912|Newry Town|62|72|https://www.transfermarkt.es/carrick-rangers/startseite/verein/8714/saison_id/2021
+0|equipo1|65|75|https://www.transfermarkt.es/larne-fc/startseite/verein/3461/saison_id/2021
+0|equipo1|65|75|https://www.transfermarkt.es/dungannon-swifts/startseite/verein/21515/saison_id/2021

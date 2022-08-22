@@ -1,0 +1,12 @@
+1651|Anorthosis|58|68|https://www.transfermarkt.es/anorthosis-famagusta/startseite/verein/3899/saison_id/2021
+1652|Apoel Nic.|57|67|https://www.transfermarkt.es/apoel-nikosia/startseite/verein/2784/saison_id/2021
+1653|Omonia|47|57|https://www.transfermarkt.es/omonia-nikosia/startseite/verein/829/saison_id/2021
+1654|AEK Larnaca|55|65|https://www.transfermarkt.es/aek-larnaka/startseite/verein/2156/saison_id/2021
+1655|Apollon L.|59|69|https://www.transfermarkt.es/apollon-limassol/startseite/verein/429/saison_id/2021
+1656|Nea Salamis|49|59|https://www.transfermarkt.es/doxa-katokopias/startseite/verein/3393/saison_id/2021
+0|equipo1|50|60|https://www.transfermarkt.es/ael-limassol/startseite/verein/786/saison_id/2021
+0|equipo1|50|60|https://www.transfermarkt.es/pafos-fc/startseite/verein/45457/saison_id/2021
+0|equipo1|50|60|https://www.transfermarkt.es/aris-limassol/startseite/verein/10586/saison_id/2021
+0|equipo1|50|60|https://www.transfermarkt.es/olympiakos-nikosia/startseite/verein/1402/saison_id/2021
+0|equipo1|50|60|https://www.transfermarkt.es/ethnikos-achnas/startseite/verein/4590/saison_id/2021
+0|equipo1|50|60|https://www.transfermarkt.es/paeek/startseite/verein/21958/saison_id/2021

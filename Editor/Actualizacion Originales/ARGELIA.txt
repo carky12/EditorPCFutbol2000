@@ -1,0 +1,8 @@
+4201|Constantine|58|68|https://www.transfermarkt.es/cs-constantine/startseite/verein/30685/saison_id/2021
+0|Equipo1|53|63|https://www.transfermarkt.es/aso-chlef/startseite/verein/13364/saison_id/2021
+0|Equipo1|53|63|https://www.transfermarkt.es/cr-belouizdad/startseite/verein/13365/saison_id/2021
+0|Equipo1|53|63|https://www.transfermarkt.es/es-setif/startseite/verein/18272/saison_id/2021
+0|Equipo1|53|63|https://www.transfermarkt.es/hb-chelghoum-laid/startseite/verein/51959/saison_id/2021
+0|Equipo1|53|63|https://www.transfermarkt.es/js-kabylie/startseite/verein/13366/saison_id/2021
+0|Equipo1|53|63|https://www.transfermarkt.es/js-saoura/startseite/verein/37160/saison_id/2021
+0|Equipo1|53|63|https://www.transfermarkt.es/mc-algier/startseite/verein/8850/saison_id/2021

@@ -1,0 +1,16 @@
+701|Estrella Roja|65|75|https://www.transfermarkt.es/roter-stern-belgrad/startseite/verein/159/saison_id/2021
+703|Partizán|64|74|https://www.transfermarkt.es/fk-partizan-belgrad/startseite/verein/669/saison_id/2021
+704|Vojvodina|63|73|https://www.transfermarkt.es/fk-vojvodina-novi-sad/startseite/verein/448/saison_id/2021
+706|Becej|63|73|https://www.transfermarkt.es/fk-cukaricki/startseite/verein/6621/saison_id/2021
+707|Obilic|62|72|https://www.transfermarkt.es/fk-spartak-subotica/startseite/verein/15276/saison_id/2021
+0|EQUIPO1|62|72|https://www.transfermarkt.es/fk-tsc-backa-topola/startseite/verein/3137/saison_id/2021
+0|EQUIPO1|62|72|https://www.transfermarkt.es/fk-metalac-gornji-milanovac/startseite/verein/12135/saison_id/2021
+0|EQUIPO1|62|72|https://www.transfermarkt.es/fk-proleter-novi-sad/startseite/verein/19488/saison_id/2021
+0|EQUIPO1|62|72|https://www.transfermarkt.es/fk-radnicki-nis/startseite/verein/7567/saison_id/2021
+0|EQUIPO1|62|72|https://www.transfermarkt.es/fk-vozdovac/startseite/verein/4634/saison_id/2021
+0|EQUIPO1|62|72|https://www.transfermarkt.es/fk-napredak-krusevac/startseite/verein/788/saison_id/2021
+0|EQUIPO1|62|72|https://www.transfermarkt.es/fk-mladost-lucani/startseite/verein/6622/saison_id/2021
+0|EQUIPO1|62|72|https://www.transfermarkt.es/fk-radnicki-1923-kragujevac/startseite/verein/4645/saison_id/2021
+0|EQUIPO1|62|72|https://www.transfermarkt.es/fk-novi-pazar/startseite/verein/4633/saison_id/2021
+0|EQUIPO1|62|72|https://www.transfermarkt.es/fk-radnik-surdulica/startseite/verein/33328/saison_id/2021
+0|EQUIPO1|62|72|https://www.transfermarkt.es/fk-kolubara-lazarevac/startseite/verein/12514/saison_id/2021

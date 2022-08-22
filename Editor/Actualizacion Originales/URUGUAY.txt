@@ -1,0 +1,16 @@
+2900|Peñarol|64|74|https://www.transfermarkt.es/ca-penarol/startseite/verein/861/saison_id/2020
+2901|Nacional|63|73|https://www.transfermarkt.es/club-nacional/startseite/verein/866/saison_id/2020
+2902|Wanderers|64|74|https://www.transfermarkt.es/montevideo-wanderers/startseite/verein/2403/saison_id/2020
+2903|River Plate (URU)|59|69|https://www.transfermarkt.es/atletico-river-plate-montevideo/startseite/verein/2419/saison_id/2020
+2904|Bella Vista|65|75|https://www.transfermarkt.es/montevideo-city-torque/startseite/verein/37535/saison_id/2020
+2905|Danubio|65|75|https://www.transfermarkt.es/club-plaza-colonia/startseite/verein/6044/saison_id/2020
+2906|Defensor|65|75|https://www.transfermarkt.es/cerro-largo-fc/startseite/verein/20189/saison_id/2020
+2907|Huracán B.|64|74|https://www.transfermarkt.es/ca-fenix/startseite/verein/3829/saison_id/2020
+2908|Liverpool|60|70|https://www.transfermarkt.es/liverpool-fc-montevideo/startseite/verein/10663/saison_id/2020
+2909|Rampla Jrs.|64|74|https://www.transfermarkt.es/ca-boston-river/startseite/verein/18074/saison_id/2020
+2910|Rentistas|60|70|https://www.transfermarkt.es/ca-rentistas/startseite/verein/10632/saison_id/2020
+2911|Villa Española|60|70|https://www.transfermarkt.es/deportivo-villa-espanola/startseite/verein/3858/saison_id/2020
+0|EQUIPO1|65|74|https://www.transfermarkt.es/ca-progreso/startseite/verein/17595/saison_id/2020
+0|EQUIPO1|65|74|https://www.transfermarkt.es/cs-cerrito/startseite/verein/18077/saison_id/2020
+0|EQUIPO1|65|74|https://www.transfermarkt.es/cd-maldonado/startseite/verein/18075/saison_id/2020
+0|EQUIPO1|65|74|https://www.transfermarkt.es/ia-sud-america-montevideo/startseite/verein/1806/saison_id/2020
