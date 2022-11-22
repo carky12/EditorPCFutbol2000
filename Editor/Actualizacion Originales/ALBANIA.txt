@@ -1,4 +1,0 @@
-2401|Teuta|58|68|https://www.transfermarkt.es/kf-teuta/startseite/verein/3739/saison_id/2021
-2402|P. Tirana|59|69|https://www.transfermarkt.es/fk-kukesi/startseite/verein/27116/saison_id/2021
-2403|SK Tirana|56|66|https://www.transfermarkt.es/kf-tirana/startseite/verein/2049/saison_id/2021
-2404|Tomori Berat|53|63|https://www.transfermarkt.es/kf-egnatia/startseite/verein/27114/saison_id/2021

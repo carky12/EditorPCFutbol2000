@@ -1,8 +1,0 @@
-4200|Principat|35|45|https://www.transfermarkt.es/atletic-club-descaldes/startseite/verein/64780/saison_id/2021
-5500|Constellació|44|54|https://www.transfermarkt.es/inter-club-descaldes/startseite/verein/41916/saison_id/2021
-0|Santa Coloma|44|54|https://www.transfermarkt.es/fc-santa-coloma/startseite/verein/10854/saison_id/2021
-0|San Julia|44|54|https://www.transfermarkt.es/ue-sant-julia/startseite/verein/11910/saison_id/2021
-0|Engordany|44|54|https://www.transfermarkt.es/ue-engordany/startseite/verein/26326/saison_id/2021
-0|Ordino|44|54|https://www.transfermarkt.es/fc-ordino/startseite/verein/40270/saison_id/2021
-0|Santa Coloma UE|44|54|https://www.transfermarkt.es/ue-santa-coloma/startseite/verein/28633/saison_id/2021
-0|Carroi|44|54|https://www.transfermarkt.es/club-esportiu-carroi/startseite/verein/64779/saison_id/2021

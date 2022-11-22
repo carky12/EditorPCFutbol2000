@@ -1,4 +1,0 @@
-PORTERO:Portero
-DEFENSA:Defensa
-MEDIO:Medio
-DELANTERO:Delantero

@@ -1,8 +1,0 @@
-FIT POR:Portero
-FIT LTD:Defensa
-FIT LTI:Defensa
-FIT CEN:Defensa
-FIT DEF:Defensa
-FIT MIG:Medio
-FIT DAV:Delantero
-FIT DAC:Delantero

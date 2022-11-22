@@ -1,8 +1,0 @@
-2553|Constructorul|56|66|https://www.transfermarkt.es/fc-sheriff-tiraspol/startseite/verein/2481/saison_id/2021
-2554|Zimbru Chisinau|53|63|https://www.transfermarkt.es/fk-zimbru-chisinau/startseite/verein/2714/saison_id/2021
-2556|Nistru Otaci |53|63|https://www.transfermarkt.es/fc-petrocub/startseite/verein/46643/saison_id/2021
-0|EQUIPO1|53|63|https://www.transfermarkt.es/fk-sfintul-gheorghe-suruceni/startseite/verein/31276/saison_id/2021
-0|EQUIPO1|53|63|https://www.transfermarkt.es/fc-milsami-orhei/startseite/verein/30686/saison_id/2021
-0|EQUIPO1|53|63|https://www.transfermarkt.es/fc-b%C4%83l%C8%9Bi/startseite/verein/83016/saison_id/2021
-0|EQUIPO1|53|63|https://www.transfermarkt.es/fc-dinamo-auto-tiraspol/startseite/verein/38921/saison_id/2021
-0|EQUIPO1|53|63|https://www.transfermarkt.es/fk-flore%C5%9Fti/startseite/verein/68502/saison_id/2021
